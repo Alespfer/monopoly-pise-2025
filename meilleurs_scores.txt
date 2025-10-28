@@ -1,0 +1,10 @@
+Mohammed;4200
+Sarah;3900
+Laurence;3550
+Louis;2902
+Alberto;2900
+Ferdinand;2820
+Jeremy;2400
+Jane;2300
+Rayan;2246
+Lucas;2200

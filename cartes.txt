@@ -1,0 +1,35 @@
+Communauté;0;200;Vous aidez vos voisins à nettoyer leur jardin après une grosse tempête. RECEVEZ M200.
+Communauté;3;200;Alors que vous ne pensiez pas pouvoir faire un mètre de plus, vous franchissez la ligne d'arrivée du marathon, et vous récoltez des fonds pour l'hôpital local ! AVANCEZ JUSQU'À LA CASE DÉPART. RECEVEZ M200.
+Communauté;18;40;Vous auriez dû vous porter volontaire pour ce projet d'amélioration de l'habitat. Cela vous aurait permis d'acquérir de nouvelles compétences utiles ! POUR CHAQUE MAISON QUE VOUS POSSÉDEZ, PAYEZ M40. POUR CHAQUE HÔTEL QUE VOUS POSSÉDEZ, PAYEZ M115.
+Communauté;0;10;Vous donnez votre sang. Il y a des gâteaux gratuits ! RECEVEZ M10.
+Communauté;0;50;Vous organisez un groupe pour nettoyer le parcours piéton de votre ville. RECEVEZ M50.
+Communauté;0;100;Vous passez la journée à jouer avec les enfants à l'hôpital local. RECEVEZ M100.
+Communauté;13;10;Vous organisez une fête de quartier pour que les habitants de votre rue puissent faire connaissance entre eux. RECEVEZ M10 DE CHAQUE JOUEUR.
+Communauté;0;25;Vous organisez une vente de pâtisseries pour l'école de votre quartier. RECEVEZ M25.
+Communauté;1;0;Vous écoutez de la musique à fond tard dans la nuit ? Vos voisins n'apprécient pas. ALLEZ EN PRISON. ALLEZ TOUT DROIT EN PRISON. NE PASSEZ PAS PAR LA CASE DÉPART, NE RECEVEZ PAS M200.
+Communauté;4;100;Vous allez au lave-auto caritatif de l'école du quartier, mais vous oubliez de remonter vos vitres ! PAYEZ M100.
+Communauté;0;20;Vous aidez votre voisine à porter ses courses. Elle vous prépare un repas pour vous remercier ! RECEVEZ M20.
+Communauté;4;50;Vous avez acheté des petits gâteaux à la vente de pâtisserie de l'école. Miam ! PAYEZ M50.
+Communauté;0;100;Vous prenez le temps chaque semaine de bavarder avec votre voisin âgé. Vous avez entendu des histoires étonnantes ! RECEVEZ M100.
+Communauté;0;100;Vous avez aidé à construire un nouveau terrain de jeux pour l'école. Vous essayez le toboggan ! RECEVEZ M100.
+Communauté;4;50;Vos amis à fourrure du refuge animalier vous seront reconnaissants pour votre don. PAYEZ M50.
+Communauté;2;0;Ouaf, Ouaf ! Vous adoptez un chiot dans un refuge ! VOUS ÊTES LIBÉRÉ DE PRISON. Conservez cette carte jusqu'à ce qu'elle soit utilisée, échangée ou vendue.
+Chance;0;50;La banque vous verse un dividende de M50.
+Chance;14;200;Avancez jusqu'à la prochaine gare. Si elle n'appartient à personne, vous pouvez l'acheter à la banque. Si elle appartient à un joueur, payez au propriétaire le double du loyer auquel il a droit. Si vous passez par la case DÉPART, RECEVEZ M200.
+Chance;4;15;Amende pour excès de vitesse. PAYEZ M15.
+Chance;5;3;Reculez de TROIS cases.
+Chance;6;50;Vous avez été élu responsable du conseil d'administration. Payez à chaque joueur M50.
+Chance;15;200;Avancez jusqu'au Boulevard de la Villette. Si vous passez par la case DÉPART, RECEVEZ M200.
+Chance;2;0;VOUS ÊTES LIBÉRÉ DE PRISON. Cette carte peut être conservée jusqu'à ce qu'elle soit utilisée, échangée ou vendue.
+Chance;19;25;Faites des réparations sur toutes vos propriétés : POUR CHAQUE MAISON, PAYEZ M25. POUR CHAQUE HÔTEL, PAYEZ M100.
+Chance;3;200;Avancez jusqu'à la case DÉPART. RECEVEZ M200.
+Chance;1;0;ALLEZ EN PRISON. ALLEZ TOUT DROIT EN PRISON. Ne passez pas par la case DÉPART. Ne recevez pas M200.
+Chance;10;200;AVANCEZ JUSQU'ÀU PROCHAIN SERVICE PUBLIC. S'il n'appartient à personne, vous pouvez l'acheter à la banque. S'il appartient à un joueur, lancez les dés et payez 10 fois le montant du résultat au propriétaire. SI VOUS PASSEZ PAR LA CASE DÉPART, RECEVEZ M200.
+Chance;11;200;AVANCEZ JUSQU'À L'AVENUE HENRI-MARTIN. SI VOUS PASSEZ PAR LA CASE DÉPART, RECEVEZ M200.
+Chance;0;150;VOTRE PRÊT IMMOBILIER VOUS RAPPORTE. RECEVEZ M150.
+Chance;17;200;RENDEZ-VOUS À LA GARE MONTPARNASSE. SI VOUS PASSEZ PAR LA CASE DÉPART, RECEVEZ M200.
+Chance;12;0;AVANCEZ JUSQU'À LA RUE DE LA PAIX.
+Chance;14;200;Avancez jusqu'à la prochaine gare. Si elle n'appartient à personne, vous pouvez l'acheter à la banque. Si elle appartient à un joueur, payez au propriétaire le double du loyer auquel il a droit. Si vous passez par la case DÉPART, RECEVEZ M200.
+
+
+

@@ -1,0 +1,222 @@
+====================================================================
+                   RÈGLES DU MONOPOLY - PARTIE CLASSIQUE
+====================================================================
+
+1. Mise en place
+
+   a) La Banque
+      - Gère la totalité de l’argent* et les titres de propriété non achetés.
+      - Verse les salaires et les primes.
+      - Encaisse l'argent des taxes et amendes.
+      - Vend les propriétés et dirige les ventes aux enchères.
+      - Vend les maisons et les hôtels.
+      - Prête de l'argent sur des propriétés hypothéquées.
+      - La Banque ne fait jamais faillite : elle peut mettre en circulation
+        autant d’argent que nécessaire. 
+      * M1 = 1 euro MONOPOLY
+
+   b) Distribution des billets
+      - Chaque joueur commence le jeu avec 1500€
+
+   c) Préparation du jeu
+      - Les cartes Chance et Caisse de communauté sont automatiquement mélangées.
+      - Chaque joueur commence sur la case DÉPART.
+
+---------------------------------------------------------------------
+2. Comment jouer ?
+
+   a) Détermination de l’ordre de jeu
+      - Chaque joueur lance les deux dés blancs.
+      - L'ordre de passage est établi en classant les résultats de manière décroissante : 
+        le joueur ayant obtenu le plus grand score commence, suivi du second, et ainsi de suite.
+      - En cas d'égalité, les joueurs concernés relanceront les dés.
+
+   b) Lors de votre tour
+      1. Lancez les deux dés blancs.
+      2. Déplacez votre pion d’autant de cases que le total indiqué
+         (dans le sens des aiguilles d’une montre).
+      3. La case sur laquelle vous vous arrêtez détermine l'action à effectuer (voir 3. Types de Cases)
+      4. En cas de double :
+         - Effectuez l'opération de la case où vous vous arrêtez, puis relancez
+           les dés.
+         - ATTENTION : Si vous faites trois doubles de suite, rendez-vous
+           immédiatement en PRISON.
+      5. Lorsque vous avez terminé, le joueur suivant prend le relais.
+
+---------------------------------------------------------------------
+3. Types de Cases
+
+   a) Propriété n'appartenant à personne
+      - Il existe trois types de propriétés :
+         * Terrains (groupes de couleur)
+         * Gares
+         * Services publics (Compagnies de service public)
+      - Sur une case propriété, vous pouvez :
+         * Acheter la propriété en payant le prix indiqué à la Banque et
+           recevoir la carte titre de propriété.
+         * Si vous refusez, le banquier doit immédiatement ouvrir une vente
+           aux enchères. La mise à prix est la première offre faite.
+      - Conseil : Essayez d’acquérir l’ensemble des propriétés d’un même
+        groupe de couleur pour doubler le loyer et pouvoir construire.
+
+   b) Propriété appartenant déjà à un autre joueur
+      - Vous devez payer le loyer indiqué sur le titre de propriété.
+      - Le loyer est calculé selon :
+         * Pour un terrain nu : le montant indiqué (doublé si le propriétaire
+           possède tous les terrains non hypothéqués du groupe).
+         * Avec constructions : loyer beaucoup plus élevé (selon la carte).
+         * Pour une gare :
+              - 1 gare : M25
+              - 2 gares : M50
+              - 3 gares : M100
+              - 4 gares : M200
+         * Pour une compagnie de service public :
+              - Multipliez le résultat des dés lancés par 4, ou par 10
+                si vous possédez les deux compagnies.
+              - Si vous vous arrêtez sur une de ces cases après avoir suivi 
+                les indications d'une Carte Chance ou Caisse de Communauté vous
+                devrez alors lancer les dés pour déterminer le montant du loyer.
+
+   c) Cases Chance ou Caisse de Communauté
+      - Prenez la carte du paquet correspondant.
+      - Suivez les instructions de la carte.
+      - La carte "Vous êtes Libéré de Prison" peut être gardée jusqu’à utilisation
+        ou vente à un autre joueur.
+
+   d) Cases Taxe de Luxe et Impôts sur le revenu
+      - Payez le montant indiqué à la Banque.
+
+   e) Case Allez en Prison
+      - Rendez-vous directement sur la case PRISON.
+      - IMPORTANT : Vous ne touchez pas les M200 de la case DÉPART si vous y passez
+        par ce déplacement.
+
+   f) Case Prison
+      - Vous y arrivez si :
+         * Vous tirez une carte vous envoyant en prison.
+         * Vous faites trois doubles consécutifs.
+      - Votre tour est terminé dès que vous êtes envoyé en prison.
+      - Pendant que vous êtes en prison, vous pouvez percevoir des loyers, si les propriétés 
+        correspondantes n'ont pas été hypothéquées.
+
+   g) Case Parc Gratuit
+      - Rien ne se passe, profitez simplement de ce moment pour vous reposer.
+
+   h) Case Propriété que vous possédez
+      - Aucune action particulière n'est requise.
+      - Vous ne gagnez pas d’argent, mais pouvez percevoir des loyers lorsque
+        d'autres joueurs atterrissent sur vos propriétés.
+
+   i) Case DÉPART
+      - Lorsque vous passez par la case DÉPART ou y atterrissez, vous recevez M200
+        de la Banque.
+
+---------------------------------------------------------------------
+4. Sortie de Prison
+
+   Lorsqu'un joueur est en prison, il peut en sortir de l'une des manières suivantes :
+   
+      1. **Payer l'amende** : 
+         - Au début de son tour, le joueur peut payer M50 à la Banque et sortir de prison,
+           puis lancer les dés pour avancer normalement.
+      
+      2. **Utiliser une carte "Vous êtes Libéré de Prison"** :
+         - Si le joueur possède cette carte, il peut l'utiliser pour sortir immédiatement
+           de prison sans payer l'amende. La carte est alors remise sous le paquet correspondant.
+      
+      3. **Tenter sa chance en lançant les dés** :
+         - Le joueur peut tenter de sortir en lançant les dés. S'il fait un double, il sort
+           de prison et utilise le total obtenu pour avancer.
+         - Si le joueur n'obtient pas de double, il reste en prison. Il peut réessayer à son tour.
+         - Après trois tentatives infructueuses, le joueur doit payer M50 et avancer selon
+           le total obtenu lors de son dernier lancer.
+
+---------------------------------------------------------------------
+5. Au secours !! J'ai besoin d'argent !!
+
+   - Si vous ne disposez plus de fonds pour payer une dette, vous pouvez :
+     1. Vendre des bâtiments (maisons/hôtels) à la Banque.
+     2. Hypothéquer une propriété.
+   - En cas de dette non réglée, vous êtes déclaré en FAILLITE et éliminé.
+     * Si la faillite est causée par un autre joueur :
+         - Remettez-lui toutes vos propriétés hypothéquées et vos cartes "Vous êtes Libéré de Prison".
+         - Ce joueur décidera soit de payer immédiatement 10% d'intérêts sur chaque propriété hypothéquée
+           récupérée, soit de payer le prix pour lever l'hypothèque.
+     * Si la faillite est envers la Banque :
+         - La Banque récupère et met aux enchères toutes vos propriétés non hypothéquées. 
+         - Remettez les cartes "Vous êtes Libéré de Prison" sous le paquet correspondant.
+
+   - NOTE IMPORTANTE : Vous pouvez réaliser ces opérations même si ce n'est pas
+     votre tour, et même si vous êtes en prison !
+
+---------------------------------------------------------------------
+6. Opérations en cours de partie (peuvent être effectuées à tout moment)
+
+   a) Percevoir un loyer
+      - Si un joueur s'arrête sur une de vos propriétés non hypothéquées,
+        réclamez le loyer indiqué sur le titre de propriété.
+
+   b) Vente aux enchères
+      Le banquier met une propriété aux enchères dans les cas suivants :
+         - Un joueur refuse d'acheter une propriété libre au prix indiqué.
+         - Un joueur fait faillite et restitue ses propriétés hypothéquées à la Banque.
+         - En cas de "crise du bâtiment" lorsque plusieurs joueurs souhaitent acheter
+           les mêmes bâtiments.
+      - L’enchère commence à n’importe quel prix (minimum M1) et la propriété revient
+        au plus offrant.
+
+   c) Construire
+      - Pour construire des maisons, vous devez posséder tous les terrains d’un même
+        groupe de couleur.
+      - Le prix d’une maison est indiqué sur le titre de propriété.
+      - Construction uniforme : vous ne pouvez pas ajouter une seconde maison sur un
+        terrain tant qu’il n’y a pas au moins une maison sur chacun des terrains du groupe.
+      - Maximum : 4 maisons par terrain. Ensuite, échangez-les contre un hôtel en payant
+        le montant indiqué.
+      - IMPORTANT : Vous ne pouvez construire sur un terrain si une autre propriété
+        du même groupe est hypothéquée.
+
+   d) Vendre un bâtiment
+      - Vous pouvez vendre vos maisons et hôtels à la Banque à la moitié de leur valeur.
+      - La vente des maisons doit se faire de manière uniforme.
+      - Un hôtel est échangé contre 4 maisons lors de la vente.
+
+   e) Hypothéquer une propriété
+      - Si vous manquez d’argent, vous pouvez hypothéquer l'une de vos propriétés.
+      - Vendez d’abord tous les bâtiments du groupe de couleur concerné.
+      - Retournez le titre de propriété et recevez la valeur d’hypothèque indiquée.
+      - Pour lever l’hypothèque, payez la valeur plus 10% d’intérêts.
+      - Une propriété hypothéquée ne rapporte pas de loyer.
+
+   f) Passer des accords avec vos adversaires !
+      - Vous pouvez conclure des marchés pour acheter ou vendre des propriétés (sans bâtiments).
+      - Avant de vendre une propriété, vendez tous les bâtiments sur le groupe de couleur concerné.
+      - Les transactions (argent, échange de propriétés ou cartes "Vous êtes Libéré de Prison")
+        se font selon l’accord des joueurs.
+      - En cas de vente d'une propriété hypothéquée, l’acheteur peut :
+            * Lever immédiatement l’hypothèque en réglant son montant à la Banque,
+            * Ou conserver l’hypothèque et payer 10% d’intérêts, avec possibilité de régler plus tard.
+
+---------------------------------------------------------------------
+7. But du jeu
+
+   - Le but n'est pas seulement de devenir riche, mais de mettre tous les autres
+     joueurs en FAILLITE.
+   - Le dernier joueur encore solvable est déclaré vainqueur.
+
+---------------------------------------------------------------------
+8. Modalités de jeu supplémentaires
+
+   a) Partie à nombre de tours limités
+      - Les joueurs décident en amont d’un **nombre fixe de tours** (ex. 50, 100, etc.).
+      - À l’issue du nombre de tours défini, chaque joueur calcule sa fortune totale (argent, propriétés, et constructions).
+      - Le joueur avec la plus grande fortune est déclaré vainqueur.
+
+   b) Partie avec objectif monétaire
+      - Les joueurs s’accordent sur une **somme cible** (ex. 5000 M).
+      - La partie se termine dès qu’un joueur atteint ou dépasse ce montant à la fin de son tour.
+      - Ce joueur est alors déclaré vainqueur.
+
+====================================================================
+                   BONNE PARTIE ET AMUSEZ-VOUS !
+====================================================================
