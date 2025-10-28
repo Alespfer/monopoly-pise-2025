@@ -1,0 +1,27 @@
+# Fichier binaire compilé
+monopoly
+monopoly.exe
+
+# Fichiers objets
+*.o
+*.out
+
+# Fichiers de sauvegarde de jeu générés par l'utilisateur
+partie.txt
+save_*.txt
+partie_*.txt
+
+# Fichiers système macOS
+.DS_Store
+
+# Fichiers de configuration et temporaires d'IDE/éditeurs
+.vscode/
+*~
+*.swp
+*.swo
+
+# Ignorer les documents et leurs fichiers temporaires
+*.pdf
+*.docx
+~$*.docx
+*.pptx
